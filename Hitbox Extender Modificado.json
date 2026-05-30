@@ -1,0 +1,19 @@
+{
+    "FFlagHumanoidParallelFixTickleFloor2": "true",
+    "FFlagFixMemoryPriorizationCrash": "True",
+    "FIntUGCValidationTorsoThresholdFront": "104",
+    "FIntUGCValidationTorsoThresholdSide": "104",
+    "FIntUGCValidationTorsoThresholdBack": "104",
+    "FIntUGCValidationLeftArmThresholdBack": "27",
+    "FIntUGCValidationLeftArmThresholdFront": "29",
+    "FIntUGCValidationLeftArmThresholdSide": "44",
+    "FIntUGCValidationLeftLegThresholdBack": "44",
+    "FIntUGCValidationLeftLegThresholdFront": "44",
+    "FIntUGCValidationLeftLegThresholdSide": "40",
+    "FIntUGCValidationRightArmThresholdBack": "27",
+    "FIntUGCValidationRightArmThresholdFront": "29",
+    "FIntUGCValidationRightArmThresholdSide": "44",
+    "FIntUGCValidationRightLegThresholdBack": "44",
+    "FIntUGCValidationRightLegThresholdFront": "44",
+    "FIntUGCValidationRightLegThresholdSide": "42"
+}
